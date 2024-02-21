@@ -1,2 +1,2 @@
 # Diseases Diagnoser
-Code foR diagnosing diseased based on a decision tree.
+Code for diagnosing diseased based on a decision tree.
